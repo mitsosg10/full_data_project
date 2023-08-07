@@ -1,4 +1,6 @@
-# The starting file is quite chaotic
+# best seller 
+
+The starting file is quite chaotic
 
 Firstly we prioritize tyding the data and export a subset csv with the needed information on mysql.
 
